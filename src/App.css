@@ -1,0 +1,27 @@
+.main {
+  margin-top: 8em;
+}
+
+.center {
+  justify-content: center;
+  padding: 21px;
+}
+
+.ui.search input {
+  width: 91%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.numberEdits {
+  font-weight: bolder;
+}
